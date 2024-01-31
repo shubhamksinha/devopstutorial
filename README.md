@@ -1,2 +1,4 @@
 # devopstutorial
-This is sample repo of devops session
+adding some changes from HTTPS
+
+adding more changes for SSH cloning test example
